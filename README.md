@@ -96,10 +96,44 @@ INPUT
 ![Cuplikan layar 2024-11-28 124311](https://github.com/user-attachments/assets/47745cd6-7eb8-447c-8755-de744695b5f1)
 
 OUTPUT
+
 ![Cuplikan layar 2024-11-28 125413](https://github.com/user-attachments/assets/03b8978c-c3fe-49c7-bacb-44223f59b4c6)
 ![Cuplikan layar 2024-11-28 125429](https://github.com/user-attachments/assets/eb1a7924-3851-47eb-94d3-e9f67a8adff2)
 ![Cuplikan layar 2024-11-28 125450](https://github.com/user-attachments/assets/cd166faa-8767-4655-8b6d-d1a8345b1c51)
 ![Cuplikan layar 2024-11-28 125502](https://github.com/user-attachments/assets/5d1913f7-1527-4b6b-8618-4358cb86592c)
+
+FLOWCHART
+
+
+Latihan 1
+
+        import math
+
+        # Menggunakan lambda untuk mendefinisikan fungsi
+        a = lambda x: x**2
+        b = lambda x, y: math.sqrt(x*2 + y*2)
+        c = lambda *args: sum(args) / len(args)
+        d = lambda s: "".join(set(s))
+
+        if __name__ == "__main__":
+
+    print("a(5):", a(5))
+
+    print("b(3, 4):", b(3, 4))
+
+    print("c(1, 2, 3, 4, 5):", c(1, 2, 3, 4, 5))
+
+    print("d('hello world'):", d('hello world'))
+
+INPUT
+
+![Cuplikan layar 2024-11-28 130044](https://github.com/user-attachments/assets/9ae78847-a3d4-4c7a-b084-f3ce3f1d9794)
+
+OUTPUT
+
+![Cuplikan layar 2024-11-28 130052](https://github.com/user-attachments/assets/afbc5184-c3a2-4ee8-9d64-da5cacc113ff)
+
+
 
 
 
