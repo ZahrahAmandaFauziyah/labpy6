@@ -104,6 +104,9 @@ OUTPUT
 
 FLOWCHART
 
+![flowchart pert10](https://github.com/user-attachments/assets/447f74c7-8a2a-4687-805c-b28d7bd4fea5)
+
+
 
 Latihan 1
 
